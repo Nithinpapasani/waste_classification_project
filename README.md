@@ -1,0 +1,3 @@
+♻️ AI-Powered Waste Classification & Recycling Assistant
+
+An AI-driven waste detection and classification system built with TensorFlow, Streamlit, and OpenCV, capable of identifying multiple types of waste (plastic, glass, organic, e-waste, etc.) from images or real-time webcam feed. The system provides recycling guidance, confidence scores, bounding boxes, audio feedback (Text-to-Speech), and prediction history export.
